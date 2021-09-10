@@ -11,6 +11,12 @@
             "homepage": "http://jgrossi.com"
         }
     ],
+    "repositories": {
+        "hautelook/phpass": {
+            "type": "vcs",
+            "url": "https://github.com/bordoni/phpass"
+        }
+    },
     "require": {
         "php": ">=7.2",
         "illuminate/database": "^6.0",
